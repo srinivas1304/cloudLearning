@@ -1,4 +1,4 @@
-#Basics of Flask
+# Basics of Flask
 1. Flask is a web development in python.
 2. The client and server are the main entities between which all the communication of data over the internet takes place
 3. Client is any web browser, application on a desktop or a mobile device or any smart device. The role of a client is to send a request to the server.
