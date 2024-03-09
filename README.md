@@ -10,7 +10,9 @@
    * Models
    * Views
    * Controller
-  1. Models
-  2. Views
-  3. Controllers 
+  2. Models
+    * Models represent how data is stored in the database. It containsl all the data definitions for your application(Schema). For example, if you are creating a lirary management system, then a model for books will be present.
+     * alkdsjf
+  4. Views
+  5. Controllers 
  
